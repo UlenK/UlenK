@@ -1,7 +1,11 @@
 👋 Hi, I’m @UlenK
+
 👀 I’m interested in Data Science and Machine Learning
+
 🌱 I’m currently learning various algorithms which are used extensively in ML
+
 📫 Email:  scalerjan@gmail.com
+
 ⚡ Fun fact: I love Coding, Painting, Musics, Maths,...I can't even finish the line.
 
 <!---
