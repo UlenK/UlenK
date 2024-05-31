@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning various algorithms which are used extensively in ML
 
-📫 Email:  scalerjan@gmail.com
+📫 Email:  scalerjan@gmail.com, I would be haappy to connect with you on LinkedIn www.linkedin.com/in/ulen
 
 ⚡ Fun fact: I love Coding, Painting, Musics, Maths,...I can't even finish the line.
 
